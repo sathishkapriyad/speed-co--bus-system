@@ -1,6 +1,7 @@
+First Install Node JS into your devide using below URL
+https://nodejs.org/en/download/
 
 ## Available Scripts
-
 In the project directory, you can run:
 ### `npm i`
 ### `npm start`
